@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\bin\Debug\net6.0\Date calc for discord.exe
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\bin\Debug\net6.0\Date calc for discord.deps.json
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\bin\Debug\net6.0\Date calc for discord.runtimeconfig.json
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\bin\Debug\net6.0\Date calc for discord.dll
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\bin\Debug\net6.0\ref\Date calc for discord.dll
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\bin\Debug\net6.0\Date calc for discord.pdb
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.AssemblyInfo.cs
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.dll
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\ref\Date calc for discord.dll
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.pdb
+C:\Users\user\source\repos\Date calc for discord\Date calc for discord\obj\Debug\net6.0\Date calc for discord.genruntimeconfig.cache

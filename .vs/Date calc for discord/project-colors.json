@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24c49ee0-ed16-4b7e-a494-2a2d4136e837": {
+      "ProjectGuid": "24c49ee0-ed16-4b7e-a494-2a2d4136e837",
+      "DisplayName": "Date calc for discord",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
